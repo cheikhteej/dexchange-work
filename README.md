@@ -1,7 +1,7 @@
 # DEXCHANGE SAAS
 
 Fait par Cheikh Tidiane LY
- avec l'appui de Lovable, Gemini AI et Vercel V0.
+ avec l'appui de Lovable, Gemini AI.
 
 ## Technologies utilisées
 
