@@ -26,3 +26,6 @@ npm run dev
 \`\`\`
 
 Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+
+Avec plus de temps je pourrais finir toutes les sections du dashboard.
+Amener le projet plus loin.
